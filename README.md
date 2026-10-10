@@ -19,51 +19,7 @@ Bootstrap, JDBC, JSP and Servlet .
 
 # That's all 🎊🎉 
 
-## ScreenShots
-<img src="ScreenShot/1.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/2.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/3.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/4.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/5.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/6.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/7.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/8.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/9.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/10.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/11.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/12.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/13.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/14.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/15.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/16.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/17.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/18.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/19.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/20.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/21.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/22.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/23.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/24.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/25.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/26.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/27.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/28.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/29.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/30.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/31.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/32.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/33.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/34.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/35.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/36.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/37.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/38.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/39.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/40.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/41.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/42.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/43.PNG" width="100%" /><br /> <br />
-<img src="ScreenShot/44.PNG" width="100%" /><br /> <br />
+
 
 # Thanks
   
